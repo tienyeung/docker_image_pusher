@@ -22,4 +22,4 @@ case $input in
 		echo "Your comment is '${str}'"
                 ;;
 esac
-git push -u origin master
+git push -u origin main
