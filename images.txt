@@ -2,5 +2,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 nginx
 mysql
-minio
+bitnami/minio
 tdengine/tdengine
