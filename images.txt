@@ -4,3 +4,4 @@ nginx
 mysql
 bitnami/minio
 tdengine/tdengine
+vllm/vllm-openai
