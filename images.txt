@@ -1,9 +1,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-nginx
-mysql
-bitnami/minio
-tdengine/tdengine
-vllm/vllm-openai
-1panel/maxkb:v1.3.0
-idootop/mi-gpt
+# 1panel/maxkb
+--platform=linux/arm64 idootop/mi-gpt
