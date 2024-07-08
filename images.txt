@@ -5,3 +5,4 @@ mysql
 bitnami/minio
 tdengine/tdengine
 vllm/vllm-openai
+1panel/maxkb:v1.3.0
