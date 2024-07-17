@@ -1,4 +1,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 # 1panel/maxkb
---platform=linux/arm64 idootop/mi-gpt
+laoyutang/clash-and-dashboard
