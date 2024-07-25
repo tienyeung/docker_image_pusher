@@ -1,4 +1,3 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-# 1panel/maxkb
-laoyutang/clash-and-dashboard
+6053537/portainer-ce
