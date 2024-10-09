@@ -1,3 +1,9 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-chaoszhu/easynode
+hacdias/webdav:latest
+6053537/portainer-ce:latest
+johngong/baidunetdisk:latest
+cnk3x/xunlei
+hslr/sun-panel
+superng6/qbittorrentee
+amilys/embyserver_arm64v8
