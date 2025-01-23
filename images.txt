@@ -1,5 +1,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-dpanel/dpanel:lite
-tdengine/tdengine:3.0.4.0
+--platform=linux/arm64 doubebly/doube-itv
 
