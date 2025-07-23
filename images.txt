@@ -1,6 +1,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 # --platform=linux/arm64 doubebly/doube-itv
-docker:24.0
-aquasec/trivy:latest
-python:3.11
+gitlab/gitlab-runner-helper:x86_64-latest
